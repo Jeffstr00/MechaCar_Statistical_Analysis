@@ -10,7 +10,7 @@ Jeremy is the new head of data analytics for AutosRUs, a car production company.
 
 ![Linear Regression](https://github.com/Jeffstr00/MechaCar_Statistical_Analysis/blob/main/Resources/linear_regression.png)
 
-In other words, multiple linear regression model is:
+In other words, our multiple linear regression model is:
 mpg = -104 + 6.267(vehicle_length) + .001245(vehicle_weight) + .06877(spoiler_angle) + 3.546(ground_clearance) -3.411(AWD)
 
 ![Linear Regression Summary](https://github.com/Jeffstr00/MechaCar_Statistical_Analysis/blob/main/Resources/linear_regression_summary.png)
